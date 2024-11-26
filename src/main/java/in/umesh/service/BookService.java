@@ -9,6 +9,4 @@ public interface BookService {
 	
 	public boolean saveBook(Book book);
 
-	public void msg(String str);
-
 }
