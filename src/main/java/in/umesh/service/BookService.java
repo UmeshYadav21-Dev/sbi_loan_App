@@ -18,6 +18,9 @@ public interface BookService {
 
 	public void m2(String email);
 	public void m3(String pwd);
+
     int i = 10;
+	public void m5();
+
 
 }
