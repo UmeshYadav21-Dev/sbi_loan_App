@@ -12,5 +12,8 @@ public interface BookService {
 	String h="kumar";
 
 	public void m1(String name);
+        
+         String k = "Umesh";
+
 
 }
