@@ -11,6 +11,7 @@ public class Book {
 	private String bookName; 
 	private Double bookPrice;
 	String s = "hii";
+	String s1 = "hello";
 	public Book() {
 		super();
 		// TODO Auto-generated constructor stub
