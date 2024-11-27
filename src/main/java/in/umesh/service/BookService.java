@@ -8,5 +8,6 @@ import in.umesh.entity.Book;
 public interface BookService {
 	
 	public boolean saveBook(Book book);
+	String h="kumar";
 
 }
