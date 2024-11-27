@@ -12,5 +12,7 @@ public interface BookService {
 	String h="kumar";
 
 	public void m1(String name);
+	public void m2(String email);
+	
 
 }
