@@ -21,6 +21,11 @@ public interface BookService {
 
     int i = 10;
 	public void m5();
+
     int x = 78;
+
+	public void m6(int x);
+
+
 
 }
