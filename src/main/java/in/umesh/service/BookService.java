@@ -13,7 +13,7 @@ public interface BookService {
 
 	public void m1(String name);
 
-        
+    String bg = "msg";       
          String k = "Umesh";
 
 	public void m2(String email);
