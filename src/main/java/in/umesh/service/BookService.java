@@ -13,6 +13,6 @@ public interface BookService {
 
 	public void m1(String name);
 	public void m2(String email);
-	
+	public void m3(String pwd);
 
 }
