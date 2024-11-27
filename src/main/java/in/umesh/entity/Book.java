@@ -10,8 +10,6 @@ public class Book {
 	private Integer bookId; 
 	private String bookName; 
 	private Double bookPrice;
-         int i = 0;
-         int j = 20;
 	
 	public Book() {
 		super();
