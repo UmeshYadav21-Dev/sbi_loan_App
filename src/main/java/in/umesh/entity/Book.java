@@ -10,7 +10,9 @@ public class Book {
 	private Integer bookId; 
 	private String bookName; 
 	private Double bookPrice;
-	
+	String s = "hii";
+        int i = 10;
+
 	public Book() {
 		super();
 		// TODO Auto-generated constructor stub
